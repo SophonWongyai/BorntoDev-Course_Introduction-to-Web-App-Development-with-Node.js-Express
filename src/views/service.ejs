@@ -1,0 +1,25 @@
+<!doctype html>
+
+  <head>
+
+  </head>
+
+  <body data-bs-spy="scroll" data-bs-target="#navScroll">
+
+    <main>
+      
+      <div class="col-lg-7 py-vh-6 position-relative" data-aos="fade-right">
+        <h1 class="display-1 fw-bold mt-5">Service Detail</h1>
+        <h4>
+          <a href="/services/<%=service.id%>"><%=service.serviceTitle %></a>
+        </h4>
+        <p>
+            <%=service.serviceDescription %>
+        </p>
+        <p>ราคา : <%=service.servicePrice %> บาท</p>
+      </div>
+
+    </main>
+
+  </body>
+</html>

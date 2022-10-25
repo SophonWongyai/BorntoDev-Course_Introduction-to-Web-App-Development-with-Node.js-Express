@@ -1,0 +1,26 @@
+[
+    {
+    "id":0,
+    "serviceTitle": "ล้างจาน 1",
+    "serviceDescription": "ล้างจาน level 1 ดีเลิศ",
+    "servicePrice": 40
+    },
+    {
+    "id":1,
+    "serviceTitle": "ล้างจาน 2",
+    "serviceDescription": "ล้างจาน level 2 ดีเลิศ",
+    "servicePrice": 405
+    },
+    {
+    "id":2,
+    "serviceTitle": "ล้างจาน 3",
+    "serviceDescription": "ล้างจาน level 3 ดีเลิศ",
+    "servicePrice": 450
+    },
+    {
+    "id":3,
+    "serviceTitle": "ล้างจาน 4",
+    "serviceDescription": "ล้างจาน level 4 ดีเลิศ",
+    "servicePrice": 55
+    }
+]
